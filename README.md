@@ -1,1 +1,1 @@
-# Lbrary-managment
+is a functional application that enables users to add new books to the collection, request and borrow books which are in library and  then marked it as unavailable, return borrowed books to make them available again, and view organized lists of all books, currently requested books, and previously returned books for efficient tracking and management of library resources.
